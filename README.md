@@ -16,12 +16,6 @@ transformations sur des images personnelles.
 - Langage : C++
 - Paradigme : Programmation impérative
 
-## Compilation & Exécution
-```bash
-g++ -o traitement main.cpp
-./traitement
-```
-
 ## Contexte académique
 Université Paris-Saclay — L1 Portail Maths-Informatique
 Cours : Programmation Impérative
